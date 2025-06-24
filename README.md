@@ -236,7 +236,7 @@ I'm passionate about engineering intelligent systems that **automate**, **predic
 
 </td>
 </tr>
-</table>### 📱 **Mobile & Cross-Platform Innovation**
+</table> 📱 **Mobile & Cross-Platform Innovation**
 
 <table>
 <tr>
