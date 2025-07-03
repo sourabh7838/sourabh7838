@@ -325,11 +325,6 @@ I'm passionate about engineering intelligent systems that **automate**, **predic
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sourabh7838&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sourabh7838&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff"/>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh7838&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff"/>
-
 <!-- Activity Graph -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sourabh7838&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true"/>
 
