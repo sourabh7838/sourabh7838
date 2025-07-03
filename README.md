@@ -125,33 +125,43 @@ I'm passionate about engineering intelligent systems that **automate**, **predic
 <tr>
 <td width="50%">
 
+#### 🤖 **Incident Automation System**
+- **Tech**: Python, Random Forests, Logistic Regression, TF-IDF, Flask
+- **Impact**: 95% reduction in MTTR, 92% accuracy
+- **Features**: ServiceNow integration, predictive models, automated workflows
+
+#### 🧠 **AI Interview Coach**
+- **Tech**: OpenAI GPT, FastAPI, React
+- **Impact**: Personalized feedback, 90% user satisfaction
+- **Features**: Dynamic question generation, resume analysis
+
+#### 📈 **Stock Price Prediction**
+- **Tech**: Python, LSTM/GRU, Pandas, Matplotlib
+- **Impact**: 12% lower MAE vs traditional baselines
+- **Features**: Real-time forecasting, market trend analysis
+
 #### 🎮 **Tic-Tac-Toe with Reinforcement Learning**
 - **Tech**: Python, Q-Learning, Tkinter
 - **Impact**: Self-learning agent with 95% win rate
 - **Features**: Interactive GUI, live training visualization
 
-#### 📈 **Advanced Stock Price Forecasting**  
-- **Tech**: LSTM, GRU, TensorFlow, AWS SageMaker
-- **Impact**: 85% accuracy in short-term predictions
-- **Features**: Real-time analysis, MAE/MSE evaluation
-
-#### 💬 **Enterprise Smart Chatbot**
-- **Tech**: BERT, RAG, NLP, Flask
-- **Impact**: 70% reduction in support tickets
-- **Features**: Context-aware responses, multi-language
-
 </td>
 <td width="50%">
 
-#### 🔍 **AI-Powered Video Search Engine**
-- **Tech**: Whisper ASR, YAKE, TF-IDF, Flask API
+#### 🔍 **Video Transcript Search Engine**
+- **Tech**: Python, Whisper, NLTK, YAKE, Scikit-learn, Flask
 - **Impact**: 10x faster content discovery
-- **Features**: Semantic search, transcript analysis
+- **Features**: Auto-transcription, key phrase extraction, topic search
 
-#### 🧠 **Intelligent Interview Coach**
-- **Tech**: GPT-4, Python, NLP
-- **Impact**: 90% user satisfaction rate
-- **Features**: Personalized questions, real-time feedback
+#### 🚗 **Driver Alertness Detection App**
+- **Tech**: Computer Vision, TensorFlow, OpenCV
+- **Impact**: Enhanced road safety through fatigue detection
+- **Features**: Real-time facial analysis, behavioral cues, safety alerts
+
+#### 📱 **Ingredient Insight App**
+- **Tech**: Flutter, Firebase, Google Cloud Vision AI, OpenFoodFacts, EWG
+- **Impact**: Real-time health risk analysis
+- **Features**: OCR ingredient extraction, allergen detection, toxic chemical alerts
 
 #### 🔎 **Smart Resume Analyzer**
 - **Tech**: spaCy, Semantic Analysis, ML
@@ -162,16 +172,16 @@ I'm passionate about engineering intelligent systems that **automate**, **predic
 </tr>
 </table>
 
-### ⚡ **DevOps & Automation Mastery**
+### ⚡ **DevOps & Infrastructure Mastery**
 
 <table>
 <tr>
 <td width="50%">
 
-#### ⚙️ **ML-Powered Incident Management**
-- **Tech**: Flask, Machine Learning, Auto-remediation
-- **Impact**: 75% reduction in MTTR
-- **Features**: Predictive analysis, automated resolution
+#### 📊 **Monitoring & Observability Dashboard**
+- **Tech**: Kubernetes, Prometheus, Grafana
+- **Impact**: 40% reduction in system downtime
+- **Features**: Real-time monitoring, Helm charts, automated alerts
 
 #### 📊 **Kubernetes Monitoring Dashboard**
 - **Tech**: K8s, Prometheus, Grafana
@@ -236,7 +246,9 @@ I'm passionate about engineering intelligent systems that **automate**, **predic
 
 </td>
 </tr>
-</table> 📱 **Mobile & Cross-Platform Innovation**
+</table>
+
+### 📱 **Mobile & Cross-Platform Innovation**
 
 <table>
 <tr>
