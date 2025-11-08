@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header&text=&fontSize=16"/>
 
 <!-- Animated Typing Effect Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=667EEA&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Sourabh+Chauhan!+👋;AI+%7C+ML+%7C+DevOps+%7C+Data+Analyst;Building+Intelligent+Systems+🚀;Automating+the+Future+🤖;Data-Driven+Decision+Making+📊" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=667EEA&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Sourabh+Chauhan!+👋;AI+%7C+ML+%7C+DevOps+%7C+Data+scientist;Building+Intelligent+Systems+🚀;Automating+the+Future+🤖;Data-Driven+Decision+Making+📊" alt="Typing SVG" />
 
 <!-- Professional Badges with Modern Design -->
 <p>
