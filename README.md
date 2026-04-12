@@ -4,11 +4,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header&text=&fontSize=16"/>
 
 <!-- Animated Typing Effect Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=667EEA&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Sourabh+Chauhan!+👋;AI+%7C+ML+%7C+DevOps+%7C+Data+Scientist;Building+Intelligent+Systems+🚀;Automating+the+Future+🤖;Data-Driven+Decision+Making+📊" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=667EEA&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Sourabh+Chauhan!+👋;AI+%7C+ML+%7C+Automation+%7C+Data+Analysis;Building+Intelligent+Systems+🚀;Automating+the+Future+🤖;Data-Driven+Decision+Making+📊" alt="Typing SVG" />
 
 <!-- Professional Badges with Modern Design -->
 <p>
-  <a href="mailto:sourabhchauhan2810@gmail.com">
+  <a href="mailto:sourabhchauhan80@outlook.com">
     <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/sourabhchauhan28">
@@ -34,11 +34,11 @@
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
 
 > **Welcome to my digital playground!** 🚀  
-> Where AI meets DevOps, and innovation becomes reality.
+> Where AI meets Automation, and innovation becomes reality.
 
 🎓 **Master's in Computer Science** @ **Lakehead University** 🇨🇦  
-💼 **5+ Years** of Software & DevOps Engineering Excellence  
-🏆 **$2.5M+ Cost Savings** through Intelligent Automation  
+💼 **5+ Years** of Software & Automation Engineering Excellence  
+🏆 **$1.5M+ Cost Savings** through Intelligent Automation, ML and Application solutions  
 ⚡ **80%+ Manual Effort Reduction** via AI-Powered Solutions  
 🌟 **Multiple Innovation Awards** for Breakthrough Projects  
 
