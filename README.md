@@ -1,135 +1,492 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B9CF6,50:8B6DE8,100:F0B429&height=150&section=header&text=Sourabh%20Chauhan&fontSize=38&fontColor=0B0C11&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20%7C%20Data%20Engineering%20%7C%20Cloud%20%26%20Automation&descAlignY=58&descSize=15&descColor=0B0C11"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=180&section=header&text=Sourabh%20Chauhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1400&color=5B9CF6&center=true&vCenter=true&width=680&lines=Building+AI-powered+backend+systems;Automating+enterprise+infrastructure+at+scale;Turning+LLMs+into+production-ready+tools" alt="Typing SVG"/>
+# Software Engineer • AI Engineer • Backend Developer • Cloud & Automation
 
-<p>
-  <a href="mailto:sourabhchauhan2810@gmail.com"><img src="https://img.shields.io/badge/Email-0B0C11?style=for-the-badge&logo=gmail&logoColor=5B9CF6" /></a>
-  <a href="https://linkedin.com/in/sourabhchauhan28"><img src="https://img.shields.io/badge/LinkedIn-0B0C11?style=for-the-badge&logo=linkedin&logoColor=8B6DE8" /></a>
-  <a href="https://github.com/sourabh7838"><img src="https://img.shields.io/badge/GitHub-0B0C11?style=for-the-badge&logo=github&logoColor=F0B429" /></a>
+Building production-grade AI applications, scalable backend systems, cloud-native platforms, and intelligent automation solutions.
+
+<p align="center">
+  <a href="mailto:sourabhchauhan2810@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/sourabhchauhan28">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/sourabh7838">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
 </p>
 
-</div>
-
-<br/>
-
-## About
-
-Software Engineer with 5+ years designing enterprise software, intelligent automation platforms, and AI-powered applications across healthcare, banking, and financial services. My work sits at the intersection of **backend engineering**, **cloud-native infrastructure**, **data engineering**, and **applied AI** — systems built to hold up in production, not just in a demo.
-
-- 🎓 M.Sc. Computer Science — Lakehead University, Canada (GPA 4.0/4.0)
-- 🏢 5+ years at **Tata Consultancy Services** — healthcare, banking & financial services clients
-- 🤖 Currently evaluating LLMs with **Outlier AI** — reasoning quality, factual accuracy, instruction following
-- ⚙️ Shipped an AI-assisted support platform handling **8,000+ requests/month**, cutting manual IT handling by **90%**
-- 🚀 Reduced VM provisioning from 2 days to **under 30 minutes** through Python + vSphere automation
-
-<br/>
-
-## Tech Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) `SQL` `PowerShell` `YAML`
-
-**Backend & APIs**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) `REST APIs` `Microservices`
-
-**AI / Machine Learning**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) `XGBoost` `NLP` `Computer Vision` `CNNs`
-
-**Generative AI**  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) `LLMs` `RAG` `Prompt Engineering`
-
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) `Ansible` `Airflow` `CI/CD`
-
-**Databases & Data**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) `PySpark` `Pandas` `NumPy` `Databricks` `ETL Pipelines`
-
-<br/>
-
-## Featured Projects
-
-**[Driver Alertness Detection](https://github.com/sourabh7838/Driver_Alertness_Detection)** — Real-time facial analysis for driver fatigue detection using behavioral cues (droopy eyes, yawning), triggering in-app alerts to improve road safety.  
-`Python` `TensorFlow` `OpenCV` `Computer Vision`
-
-**[Video Transcript Search Engine](https://github.com/sourabh7838/Video-Transcript-Search-Engine)** — AI-powered semantic video search: transcribes video, extracts contextual keywords, and enables topic-level search through Flask APIs.  
-`Python` `Whisper` `Flask` `NLP` `Scikit-learn`
-
-**[Ingredient Insight App](https://github.com/sourabh7838/Ingredient_Insight_Application)** — AI-based ingredient analysis platform extracting product label data from images and generating health-risk insights via OCR and nutrition datasets.  
-`Python` `OCR` `Streamlit` `Computer Vision`
-
-**AI-Assisted Incident Platform** — Enterprise Python platform handling 8,000+ monthly IT queries via NLP pipelines and rule-based orchestration, cutting manual IT handling by 90%.  
-`Python` `NLP` `REST APIs` `ServiceNow`
-
-**Tic-Tac-Toe with Reinforcement Learning** — Self-learning game agent trained with Q-learning, reaching a 98%+ win rate after 10,000 training episodes, with a Tkinter GUI visualizing live training.  
-`Python` `Q-learning` `Tkinter`
-
-<details>
-<summary><b>Also explored</b> — smaller experiments and side builds</summary>
-<br/>
-
-- **AI Interview Coach** — `OpenAI GPT` `FastAPI` `React` — dynamic question generation with resume-aware feedback
-- **Stock Price Prediction** — `Python` `LSTM/GRU` `Pandas` `Matplotlib` — time-series forecasting experiments
-- **Smart Resume Analyzer** — `spaCy` `Semantic Analysis` — job-to-resume matching and skill gap detection
-- **Kubernetes Monitoring Dashboard** — `Prometheus` `Grafana` `Helm` — cluster health and alerting setup
-- **Sales Forecasting Engine** — `XGBoost` `AWS SageMaker` — MLOps experimentation with model versioning
-- **Smart Personal Organizer** — `Flutter` `Firebase` `Dart` — cross-platform productivity app
-- **Retro Space Combat Game** — `Flutter` `Flame Engine` — 2D game built to learn game-loop physics
-
-</details>
-
-<br/>
-
-## Experience Snapshot
-
-**Tata Consultancy Services** · Mar 2020 – Aug 2024 · *Healthcare, banking & financial services clients*
-- Built an AI-assisted support platform automating 8,000+ IT requests/month, cutting manual handling by 90%
-- Reduced VM provisioning from 2 days to under 30 minutes with Python + vSphere automation
-- Delivered infrastructure diagnostics tooling that cut manual operational reviews by 95%
-
-**Outlier AI (Freelance)** · Nov 2025 – Jun 2026
-- Evaluating LLM outputs for reasoning quality, factual accuracy, and instruction-following against structured guidelines
-
-*Full role history in my pinned repos and portfolio site.*
-
-<br/>
-
-## Certifications
-
-`Oracle Certified Generative AI Professional` · `Oracle Certified DevOps Professional` · `Oracle Certified Data Science Professional` · `TCS Python L3 Certified` · `IBM Data Analysis with Python` · `MongoDB for SQL Experts` · `LangChain Academy — Intro to LangChain (Python)`
-
-<br/>
-
-## Recognition
-
-🌟 Star of the Month — TCS &nbsp;·&nbsp; 🏆 On-the-Spot Team Excellence Award &nbsp;·&nbsp; 🎖️ Client Recognition Awards &nbsp;·&nbsp; 🚀 Special Initiative & Contextual Master Awards
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sourabh7838&show_icons=true&theme=dark&bg_color=0B0C11&title_color=F0B429&icon_color=5B9CF6&text_color=989EA9&border_color=1E222C&hide_border=false"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=sourabh7838&theme=dark&background=0B0C11&stroke=1E222C&ring=5B9CF6&fire=F0B429&currStreakLabel=F0B429&sideLabels=989EA9&currStreakNum=F3F4F7&sideNums=F3F4F7&dates=565C69&border=1E222C"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabh7838&bg_color=0B0C11&color=5B9CF6&line=5B9CF6&point=F0B429&area=true&hide_border=true" width="90%"/>
+<img src="https://komarev.com/ghpvc/?username=sourabh7838&style=for-the-badge"/>
 
 </div>
 
-<br/>
+---
+
+# 👋 About Me
+
+I'm a **Software Engineer** with experience building **AI and ML powered applications, enterprise automation platforms, backend APIs, cloud infrastructure, and machine learning solutions**.
+
+I enjoy solving complex engineering problems by combining software engineering best practices with AI, cloud technologies, and automation.
+
+### Highlights
+
+- 🎓 MSc Computer Science — Lakehead University
+- 💼 5+ years Software Engineering experience
+- 🤖 AI / Machine Learning Engineer
+- ☁️ Cloud & DevOps Engineer
+- ⚙️ Enterprise Automation Specialist
+- 📊 Data Analytics & Business Intelligence
+- 🚀 Passionate about scalable software architecture
+
+---
+
+# 💼 Professional Experience
+
+### Software Engineer
+**Tata Consultancy Services**
+
+- Designed enterprise automation solutions
+- Developed backend APIs and automation services
+- Built monitoring dashboards
+- Automated infrastructure operations
+- Improved operational efficiency through AI-powered workflows
+
+### AI Engineer
+
+Working on
+
+- Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- AI Evaluation
+- Prompt Engineering
+- Agentic AI
+- Enterprise AI Applications
+
+---
+
+# 🚀 Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,cs,bash,js,ts"/>
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs"/>
+
+</p>
+
+---
+
+## AI / Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+</p>
+
+**Also Experienced With**
+
+- OpenAI API
+- LangChain
+- Hugging Face
+- Scikit-learn
+- XGBoost
+- NLP
+- Computer Vision
+- Reinforcement Learning
+- LLM Evaluation
+- RAG Pipelines
+
+---
+
+## Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions"/>
+
+</p>
+
+---
+
+## Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+
+</p>
+
+Also
+
+- Snowflake
+- SQL Server
+- SQLite
+
+---
+
+## Data Engineering
+
+- Apache Airflow
+- Spark
+- Pandas
+- NumPy
+- Power BI
+- Tableau
+- Grafana
+- Prometheus
+
+---
+
+# ⭐ Core Expertise
+
+```text
+✓ Artificial Intelligence
+
+✓ Machine Learning
+
+✓ LLM Applications
+
+✓ Prompt Engineering
+
+✓ RAG
+
+✓ Backend Development
+
+✓ REST APIs
+
+✓ Microservices
+
+✓ Enterprise Automation
+
+✓ Cloud Engineering
+
+✓ DevOps
+
+✓ Kubernetes
+
+✓ Docker
+
+✓ CI/CD
+
+✓ Data Engineering
+
+✓ Analytics
+
+✓ MLOps
+```
+
+---
+
+# 📌 Featured Projects
+
+## 🤖 AI Interview Coach
+
+Enterprise interview preparation platform powered by LLMs.
+
+### Technologies
+
+- FastAPI
+- OpenAI
+- React
+- PostgreSQL
+
+### Features
+
+- Resume analysis
+- Personalized interview questions
+- AI feedback
+- Skill assessment
+
+---
+
+## 🔍 Video Transcript Search Engine
+
+Search thousands of hours of video content instantly.
+
+### Technologies
+
+- Python
+- Whisper
+- YAKE
+- Flask
+- NLP
+
+### Features
+
+- Automatic transcription
+- Semantic search
+- Keyword extraction
+- Topic detection
+
+---
+
+## 🚨 Incident Automation Platform
+
+AI-powered IT incident resolution platform.
+
+### Technologies
+
+- Python
+- Flask
+- Random Forest
+- TF-IDF
+- ServiceNow
+
+### Highlights
+
+- Intelligent ticket classification
+- Automated remediation
+- Predictive routing
+- Faster MTTR
+
+---
+
+## 🧠 Resume Analyzer
+
+Machine learning application for resume screening.
+
+### Technologies
+
+- Python
+- SpaCy
+- NLP
+- Scikit-learn
+
+### Features
+
+- Resume parsing
+- Job matching
+- Skill extraction
+- ATS compatibility
+
+---
+
+## 🚗 Driver Drowsiness Detection System
+
+AI-powered computer vision application for detecting driver fatigue in real time.
+
+### Technologies
+
+- Python
+- OpenCV
+- TensorFlow
+- CNN
+- MediaPipe
+
+### Features
+
+- Real-time face detection
+- Eye Aspect Ratio (EAR)
+- Fatigue detection
+- Alert notifications
+
+---
+
+## 📈 Stock Price Prediction
+
+Machine learning application for stock forecasting.
+
+### Technologies
+
+- Python
+- LSTM
+- TensorFlow
+- Pandas
+- NumPy
+- Matplotlib
+
+### Features
+
+- Historical analysis
+- Deep learning forecasting
+- Interactive visualizations
+
+---
+
+## 🍽️ Ingredient Insight
+
+AI application that analyzes food ingredients and nutritional information.
+
+### Technologies
+
+- Python
+- FastAPI
+- OpenAI API
+- OCR
+
+### Features
+
+- Ingredient extraction
+- Nutrition analysis
+- AI recommendations
+- Health insights
+
+---
+
+# 🏆 Certifications
+
+- Oracle Cloud Infrastructure AI Foundations Associate
+- Oracle Cloud Infrastructure Generative AI Professional
+- Oracle Cloud Infrastructure Data Science Professional
+- Oracle Cloud Infrastructure DevOps Professional
+- IBM Data Analysis Professional
+- MongoDB Associate
+- Python Programming
+- SQL & Database Management
+- Machine Learning
+- Deep Learning
+- Git & GitHub
+- Docker & Kubernetes
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-## Let's Connect
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sourabh7838&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<a href="mailto:sourabhchauhan2810@gmail.com"><img src="https://img.shields.io/badge/Email-0B0C11?style=for-the-badge&logo=gmail&logoColor=5B9CF6" /></a>
-<a href="https://linkedin.com/in/sourabhchauhan28"><img src="https://img.shields.io/badge/LinkedIn-0B0C11?style=for-the-badge&logo=linkedin&logoColor=8B6DE8" /></a>
-<a href="https://github.com/sourabh7838"><img src="https://img.shields.io/badge/GitHub-0B0C11?style=for-the-badge&logo=github&logoColor=F0B429" /></a>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh7838&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br/><br/>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5B9CF6,50:8B6DE8,100:F0B429&height=100&section=footer"/>
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabh7838&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabh7838&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 📌 Current Focus
+
+```text
+🚀 Building AI-powered SaaS applications
+
+🧠 Large Language Models (LLMs)
+
+📚 Retrieval-Augmented Generation (RAG)
+
+🤖 AI Agents & Automation
+
+☁️ Cloud Native Applications
+
+⚙️ Enterprise Backend Systems
+
+📈 Machine Learning Pipelines
+
+🐳 Kubernetes & DevOps
+
+🔍 MLOps & Model Deployment
+
+📊 Data Engineering
+```
+
+---
+
+# 🌟 What I Enjoy Building
+
+- AI Applications
+- Intelligent Automation
+- Enterprise Platforms
+- Backend APIs
+- Cloud Infrastructure
+- Developer Tools
+- Machine Learning Systems
+- Data Platforms
+- Productivity Applications
+- Open Source Projects
+
+---
+
+# 📚 Currently Learning
+
+- Agentic AI
+- Multi-Agent Systems
+- Advanced Kubernetes
+- Distributed Systems
+- Event-Driven Architecture
+- LlamaIndex
+- LangGraph
+- AWS AI Services
+- Azure OpenAI
+- Production MLOps
+
+---
+
+# 🤝 Open To Collaborate On
+
+- Artificial Intelligence
+- Machine Learning
+- Open Source
+- Backend Engineering
+- Cloud Projects
+- SaaS Products
+- DevOps
+- Automation Platforms
+- Data Engineering
+- Research Projects
+
+---
+
+# 💡 Engineering Philosophy
+
+> Build software that is scalable, maintainable, secure, and delivers measurable business value.
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:sourabhchauhan2810@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/sourabhchauhan28">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sourabh7838">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting!
+
+*"Building intelligent software that scales from ideas to production."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=120&section=footer"/>
 
 </div>
