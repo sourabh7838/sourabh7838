@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=180&section=header&text=Sourabh%20Chauhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-# Software Engineer • AI Engineer • Backend Developer • Cloud & Automation
+# Software Engineer • AI and ML Engineer • Backend Developer • Cloud & Automation
 
 Building production-grade AI applications, scalable backend systems, cloud-native platforms, and intelligent automation solutions.
 
